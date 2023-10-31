@@ -1,0 +1,46 @@
+#submit{
+    margin:auto;
+    width:110px;
+  }
+  input{
+    border-radius: 5px;
+    height: 30px;
+    width: 270px;
+  }
+  textarea{
+    border-radius: 5px;
+    height: 100px;
+    width: 270px;
+  }
+  main{
+    background-color: rgba(149, 178, 206, 0.548);
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    text-align: center;
+    width: 800px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  body{
+    background:linear-gradient(rgba(0, 0, 0, 0.671),rgba(0, 0, 0, 0.055)), url(C:\Users\hp\Desktop\OIP.jfif);
+    text-transform: uppercase;
+    background-repeat: no-repeat;
+    background-size: cover;
+  } 
+  h1{
+    font-size: 30px;
+    text-decoration: underline rgb(0, 0, 0);
+    font-family:  'Londrina Solid', cursive;
+    font-weight: 1000;
+    color: white;
+    -webkit-text-stroke: 2px rgb(0, 0, 0);
+  }
+  label{
+    text-decoration: underline;
+    font-size: 20px;
+    font-family:  'AR One Sans', cursive;
+    color: rgb(0, 0, 0);
+  }
